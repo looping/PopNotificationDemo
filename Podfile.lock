@@ -1,0 +1,17 @@
+PODS:
+  - pop (1.0.7)
+  - RCDraggableButton (0.4)
+  - RCLighting (0.1):
+    - pop
+
+DEPENDENCIES:
+  - pop
+  - RCDraggableButton
+  - RCLighting
+
+SPEC CHECKSUMS:
+  pop: 2f14a1ea61339767af9e66741b418c831b3844df
+  RCDraggableButton: b9bd67cc1623fde0ac4190baed9dcc847dc3081b
+  RCLighting: eb725aa0d4ece8b43b80123e2cf2734d0322a478
+
+COCOAPODS: 0.34.2
